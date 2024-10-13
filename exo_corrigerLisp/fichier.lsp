@@ -45,7 +45,7 @@
        nil
        (if(null (cdr l))
            (car l)
-           (dernier (cdr l))
+           (dernier  (cdr l))
 
        )
 
